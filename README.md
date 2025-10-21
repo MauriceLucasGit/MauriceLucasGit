@@ -36,10 +36,9 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a multifaceted backgr
 - Explored payment flows to identify bottlenecks and optimize conversion rates
 
 _Check out my repositories for more details:_
-- [Python Practice Exercises](https://github.com/MauriceLucasGit/Python_Practice_Exercises)
-- [Machine Learning Models](https://github.com/MauriceLucasGit/DTSC_670_Fnds_Machine_Learning_Models)
-- [Snowflake Churn ML Model](https://github.com/MauriceLucasGit/Snowflake_Churn_ML_Model)
+- [Machine Learning Classification in Python with Scikit Learn](https://github.com/MauriceLucasGit/Machine-Learning-Classification-in-Python-with-Scikit-Learn)
 - [Churn Prediction in Snowflake Notebooks](https://github.com/MauriceLucasGit/sfguide-data-analysis-churn-prediction-in-snowflake-notebooks)
+- More to come...
 
 ---
 
