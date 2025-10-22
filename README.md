@@ -19,21 +19,24 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a multifaceted backgr
 ## 💡 Top Skills & Technologies
 
 - **Advanced:** SQL, Tableau, Microsoft Excel
-- **Intermediate:** Python (pandas, numpy, Jupyter, scikit-learn, Random Forest)
+- **Intermediate:** Python (pandas, numpy, Jupyter, matplotlib, Scikit-learn, Random Forest)
+- **Developing:** dbt and data engineering
 
 ---
 
 ## 📈 Featured Projects
 
 ### 🏡 Housing Price Prediction
-- Developed predictive models using California census data to estimate housing prices
-- Implemented multiple regression to predict prices for individual houses based on features like bedrooms, bathrooms, proximity to the ocean, age, and median income of census district
+-  Built a production-oriented machine learning pipeline to predict California housing prices, implementing and comparing multiple regression algorithms (Linear Regression, Decision Tree, Random Forest) using scikit-learn on features including geographic coordinates, property characteristics, and census district demographics.
+-  Conducted comprehensive data preprocessing with Pandas (stratified sampling, missing value imputation, feature scaling with StandardScaler) and engineered domain-specific features (rooms per household, bedroom ratios, population density) informed by exploratory data analysis and Matplotlib visualizations to capture nonlinear relationships.
+-  Optimized Random Forest regressor through k-fold cross-validation and GridSearchCV hyperparameter tuning, achieving deployment-ready predictions with measurable RMSE improvement over baseline models and expert estimates, demonstrating the business value of systematic model selection and validation.
 
 ### 🔄 Subscription Cancellation Analysis
 - Analyzed SaaS subscription funnel and cancellation patterns in Snowflake using SQL to identify churn drivers, optimize customer retention strategies, and improve conversion through cohort analysis for a fictitious B2B software company.
 
 ### 🎫NYC Parking Ticket Data Pipeline using dbt and SQL
-- Developed dbt data pipeline to transform raw New York City parking ticket data into analytics-ready models using medallion architecture (bronze, silver, gold layers). Practiced modern analytics engineering workflows including modular data modeling, automated testing, and version control.
+- Developed dbt data pipeline to transform raw New York City parking ticket data into analytics-ready models using medallion architecture (bronze, silver, gold layers).
+- Practiced modern analytics engineering workflows including modular data modeling, automated testing, and version control.
 
 _Check out my repositories for more details:_
 - [Machine Learning Classification in Python with Scikit Learn](https://github.com/MauriceLucasGit/Machine-Learning-Classification-in-Python-with-Scikit-Learn)
