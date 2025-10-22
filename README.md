@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a multifaceted backgr
 ### 🔄 Subscription Cancellation Analysis
 - Analyzed SaaS subscription funnel and cancellation patterns in Snowflake using SQL to identify churn drivers, optimize customer retention strategies, and improve conversion through cohort analysis for a fictitious B2B software company.
 
-### 💳 NYC Parking Ticket Data Pipeline using dbt and SQL
+### 🎫NYC Parking Ticket Data Pipeline using dbt and SQL
 - Developed dbt data pipeline to transform raw New York City parking ticket data into analytics-ready models using medallion architecture (bronze, silver, gold layers). Practiced modern analytics engineering workflows including modular data modeling, automated testing, and version control.
 
 _Check out my repositories for more details:_
