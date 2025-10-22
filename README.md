@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a multifaceted backgr
 
 ### 🏡 Housing Price Prediction
 - Developed predictive models using California census data to estimate housing prices
-- Implemented multiple regression to predict prices for individual houses based on features like bedrooms, bathrooms, proximity to the ocean, age, and median income
+- Implemented multiple regression to predict prices for individual houses based on features like bedrooms, bathrooms, proximity to the ocean, age, and median income of census district
 
 ### 🔄 Subscription Cancellation Analysis
-- Analyzed subscription data to uncover key drivers of customer churn and retention
+- Analyzed SaaS subscription funnel and cancellation patterns in Snowflake using SQL to identify churn drivers, optimize customer retention strategies, and improve conversion through cohort analysis for a fictitious B2B software company.
 
-### 💳 Payment Funnel Analysis
-- Explored payment flows to identify bottlenecks and optimize conversion rates
+### 💳 NYC Parking Ticket Data Pipeline using dbt and SQL
+- Developed dbt data pipeline to transform raw New York City parking ticket data into analytics-ready models using medallion architecture (bronze, silver, gold layers). Practiced modern analytics engineering workflows including modular data modeling, automated testing, and version control.
 
 _Check out my repositories for more details:_
 - [Machine Learning Classification in Python with Scikit Learn](https://github.com/MauriceLucasGit/Machine-Learning-Classification-in-Python-with-Scikit-Learn)
