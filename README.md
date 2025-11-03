@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a multifaceted backgr
 
 - **Data Analyst** with hands-on experience in the automotive and financial services sectors
 - Former **Product Manager** and **Financial Analyst**
-- Currently enrolled in a **MS in Data Science** program
+- Currently enrolled in a **MS in Data Science** program at Eastern University
 
 ---
 
